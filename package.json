@@ -15,7 +15,7 @@
     "front-matter": "^3.1.0",
     "json2csv": "^4.5.4",
     "netlify-lambda": "^1.6.3",
-    "nodemon": "^1.19.2",
+    "nodemon": "^2.0.3",
     "parser-front-matter": "^1.6.4",
     "serverless-http": "^2.3.0"
   },
